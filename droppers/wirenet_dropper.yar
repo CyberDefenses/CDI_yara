@@ -1,4 +1,4 @@
-rule: wirenet_dropper
+rule wirenet_dropper
  {
 meta:
   description = "Wirenet backdoor dropper Invoice_SKMBT_20170601.doc"
